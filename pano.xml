@@ -7,7 +7,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:24:57" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:24" description="" heading="-2.36655" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node1" source="" tags="Adentro" title="1"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:24:57" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:24" description="" heading="-2.36655" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node1" source="" tags="Adentro" title="1">
+      <mapcoords mapid="FloorPlan02" x="0.211487" x_floorplan_percent="20.4787" y="-1.53534" y_floorplan_percent="75.0336"/>
+    </userdata>
     <view fovmode="2" pannorth="-2.36655">
       <start fov="100" pan="-90.4531" projection="4" tilt="-10.7656"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -31,7 +33,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:25:18" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:25" description="" heading="-8.20224" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node2" source="" tags="Adentro" title="2"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:25:18" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:25" description="" heading="-8.20224" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node2" source="" tags="Adentro" title="2">
+      <mapcoords mapid="FloorPlan02" x="0.20874" x_floorplan_percent="20.2128" y="-1.4502" y_floorplan_percent="70.8725"/>
+    </userdata>
     <view fovmode="2" pannorth="-8.20224">
       <start fov="100" pan="-130.489" projection="4" tilt="-7.43888"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -55,7 +59,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:25:41" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:25" description="" heading="2.35972" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node3" source="" tags="Adentro" title="3"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:25:41" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:25" description="" heading="2.35972" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node3" source="" tags="Adentro" title="3">
+      <mapcoords mapid="FloorPlan02" x="0.384521" x_floorplan_percent="37.234" y="-1.48315" y_floorplan_percent="72.4832"/>
+    </userdata>
     <view fovmode="2" pannorth="2.35972">
       <start fov="117.116" pan="152.861" projection="4" tilt="-20.5668"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -80,7 +86,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:26:02" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:26" description="" heading="188.268" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node4" source="" tags="Adentro" title="4"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:26:02" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:26" description="" heading="188.268" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node4" source="" tags="Adentro" title="4">
+      <mapcoords mapid="FloorPlan02" x="0.444946" x_floorplan_percent="43.0851" y="-1.55457" y_floorplan_percent="75.9732"/>
+    </userdata>
     <view fovmode="2" pannorth="188.268">
       <start fov="124.85" pan="10.472" projection="4" tilt="-24.0417"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -105,7 +113,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:27:07" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:27" description="" heading="182.862" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node5" source="" tags="Adentro" title="5"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:27:07" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:27" description="" heading="182.862" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node5" source="" tags="Adentro" title="5">
+      <mapcoords mapid="FloorPlan02" x="0.508118" x_floorplan_percent="49.2021" y="-1.7276" y_floorplan_percent="84.4295"/>
+    </userdata>
     <view fovmode="2" pannorth="182.862">
       <start fov="100" pan="7.04847" projection="4" tilt="-20.7931"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -132,7 +142,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:27:27" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:27" description="" heading="180.838" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node6" source="" tags="Adentro" title="6"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:27:27" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:27" description="" heading="180.838" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node6" source="" tags="Adentro" title="6">
+      <mapcoords mapid="FloorPlan02" x="0.574036" x_floorplan_percent="55.5851" y="-1.73035" y_floorplan_percent="84.5638"/>
+    </userdata>
     <view fovmode="2" pannorth="180.838">
       <start fov="100" pan="-4.50728" projection="4" tilt="-9.38437"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -159,7 +171,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:27:42" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:27" description="" heading="177.781" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node7" source="" tags="Adentro" title="7"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:27:42" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:27" description="" heading="177.781" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node7" source="" tags="Adentro" title="7">
+      <mapcoords mapid="FloorPlan02" x="0.631714" x_floorplan_percent="61.1702" y="-1.73035" y_floorplan_percent="84.5638"/>
+    </userdata>
     <view fovmode="2" pannorth="177.781">
       <start fov="100" pan="7.3144" projection="4" tilt="-26.7343"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -185,7 +199,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:27:55" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:27" description="" heading="174.052" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node8" source="" tags="Adentro" title="8"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:27:55" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:27" description="" heading="174.052" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node8" source="" tags="Adentro" title="8">
+      <mapcoords mapid="FloorPlan02" x="0.54657" x_floorplan_percent="52.9255" y="-1.82373" y_floorplan_percent="89.1275"/>
+    </userdata>
     <view fovmode="2" pannorth="174.052">
       <start fov="100" pan="84.1678" projection="4" tilt="-26.6371"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -207,7 +223,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:28:14" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:28" description="" heading="175.635" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node9" source="" tags="Adentro" title="9"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:28:14" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:28" description="" heading="175.635" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node9" source="" tags="Adentro" title="9">
+      <mapcoords mapid="FloorPlan02" x="0.697632" x_floorplan_percent="67.5532" y="-1.73035" y_floorplan_percent="84.5638"/>
+    </userdata>
     <view fovmode="2" pannorth="175.635">
       <start fov="100" pan="-178.065" projection="4" tilt="-17.2904"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -236,7 +254,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:28:29" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:28" description="" heading="-94.1257" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node10" source="" tags="Adentro" title="10"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:28:29" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:28" description="" heading="-94.1257" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node10" source="" tags="Adentro" title="10">
+      <mapcoords mapid="FloorPlan02" x="0.716858" x_floorplan_percent="69.4149" y="-1.64246" y_floorplan_percent="80.2685"/>
+    </userdata>
     <view fovmode="2" pannorth="-94.1257">
       <start fov="100" pan="-1.95404" projection="4" tilt="-45.5289"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -265,7 +285,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:28:44" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:28" description="" heading="71.9099" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node11" source="" tags="Adentro" title="11"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:28:44" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:28" description="" heading="71.9099" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node11" source="" tags="Adentro" title="11">
+      <mapcoords mapid="FloorPlan02" x="0.785522" x_floorplan_percent="76.0638" y="-1.52985" y_floorplan_percent="74.7651"/>
+    </userdata>
     <view fovmode="2" pannorth="71.9099">
       <start fov="117.015" pan="-15.0487" projection="4" tilt="-32.0247"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -294,7 +316,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:29:16" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:29" description="" heading="-5.01995" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node12" source="" tags="Adentro" title="12"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:29:16" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:29" description="" heading="-5.01995" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node12" source="" tags="Adentro" title="12">
+      <mapcoords mapid="FloorPlan02" x="0.626221" x_floorplan_percent="60.6383" y="-1.46942" y_floorplan_percent="71.8121"/>
+    </userdata>
     <view fovmode="2" pannorth="-5.01995">
       <start fov="100" pan="28.5705" projection="4" tilt="-29.6648"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -320,7 +344,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:51:56" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:51" description="" heading="120.978" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node13" source="" tags="Adentro" title="13"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:51:56" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:51" description="" heading="120.978" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node13" source="" tags="Adentro" title="13">
+      <mapcoords mapid="FloorPlan02" x="0.796509" x_floorplan_percent="77.1277" y="-1.7276" y_floorplan_percent="84.4295"/>
+    </userdata>
     <view fovmode="2" pannorth="120.978">
       <start fov="126.58" pan="-4.8432" projection="4" tilt="-15.2854"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -350,7 +376,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:23:57" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:23" description="" heading="353.943" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node14" source="" tags="Adentro" title="14"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:23:57" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:23" description="" heading="353.943" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node14" source="" tags="Adentro" title="14">
+      <mapcoords mapid="FloorPlan02" x="0.222473" x_floorplan_percent="21.5426" y="-1.73309" y_floorplan_percent="84.698"/>
+    </userdata>
     <view fovmode="2" pannorth="353.943">
       <start fov="100" pan="-55.245" projection="4" tilt="-23.0477"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -376,7 +404,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:24:15" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:24" description="" heading="0.932444" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node15" source="" tags="Adentro" title="15"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:24:15" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:24" description="" heading="0.932444" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node15" source="" tags="Adentro" title="15">
+      <mapcoords mapid="FloorPlan02" x="0.310364" x_floorplan_percent="30.0532" y="-1.73035" y_floorplan_percent="84.5638"/>
+    </userdata>
     <view fovmode="2" pannorth="0.932444">
       <start fov="100" pan="-0.0497135" projection="4" tilt="-2.66732"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -402,7 +432,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:24:35" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:24" description="" heading="-0.110162" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node16" source="" tags="Adentro" title="16"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:24:35" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:24" description="" heading="-0.110162" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node16" source="" tags="Adentro" title="16">
+      <mapcoords mapid="FloorPlan02" x="0.420227" x_floorplan_percent="40.6915" y="-1.73309" y_floorplan_percent="84.698"/>
+    </userdata>
     <view fovmode="2" pannorth="-0.110162">
       <start fov="100" pan="-21.5718" projection="4" tilt="-3.9203"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -430,7 +462,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:29:54" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:29" description="" heading="180.538" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node17" source="" tags="Afuera" title="1a"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:29:54" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:29" description="" heading="180.538" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node17" source="" tags="Afuera" title="1a">
+      <mapcoords mapid="FloorPlan02" x="0.914612" x_floorplan_percent="88.5638" y="-1.76605" y_floorplan_percent="86.3087"/>
+    </userdata>
     <view fovmode="2" pannorth="180.538">
       <start fov="100" pan="-95.7604" projection="4" tilt="-32.8451"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -451,7 +485,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:30:10" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:30" description="" heading="184.234" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node18" source="" tags="Afuera" title="2a"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:30:10" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:30" description="" heading="184.234" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node18" source="" tags="Afuera" title="2a">
+      <mapcoords mapid="FloorPlan02" x="0.914612" x_floorplan_percent="88.5638" y="-1.50787" y_floorplan_percent="73.6913"/>
+    </userdata>
     <view fovmode="2" pannorth="184.234">
       <start fov="100" pan="-96.5699" projection="4" tilt="-20.0508"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -473,7 +509,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:30:48" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:30" description="" heading="81.855" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node19" source="" tags="Afuera" title="3a"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:30:48" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:30" description="" heading="81.855" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node19" source="" tags="Afuera" title="3a">
+      <mapcoords mapid="FloorPlan02" x="0.887146" x_floorplan_percent="85.9043" y="-1.07666" y_floorplan_percent="52.6174"/>
+    </userdata>
     <view fovmode="2" pannorth="81.855">
       <start fov="135.055" pan="13.1323" projection="4" tilt="-2.64217"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -498,7 +536,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:31:25" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:31" description="" heading="-0.528" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node20" source="" tags="Afuera" title="4a"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:31:25" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:31" description="" heading="-0.528" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node20" source="" tags="Afuera" title="4a">
+      <mapcoords mapid="FloorPlan02" x="0.142822" x_floorplan_percent="13.8298" y="-0.997009" y_floorplan_percent="48.7248"/>
+    </userdata>
     <view fovmode="2" pannorth="-0.528">
       <start fov="100" pan="10.0247" projection="4" tilt="-6.38822"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -523,7 +563,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:31:45" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:31" description="" heading="-1.06" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node21" source="" tags="Afuera" title="5a"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:31:45" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:31" description="" heading="-1.06" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node21" source="" tags="Afuera" title="5a">
+      <mapcoords mapid="FloorPlan02" x="0.098877" x_floorplan_percent="9.57447" y="-0.76355" y_floorplan_percent="37.3154"/>
+    </userdata>
     <view fovmode="2" pannorth="-1.06">
       <start fov="100" pan="-85.2895" projection="4" tilt="0.112872"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -547,7 +589,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:32:01" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:32" description="" heading="89.647" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node22" source="" tags="Afuera" title="6a"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:32:01" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:32" description="" heading="89.647" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node22" source="" tags="Afuera" title="6a">
+      <mapcoords mapid="FloorPlan02" x="0.260925" x_floorplan_percent="25.266" y="-0.77179" y_floorplan_percent="37.7181"/>
+    </userdata>
     <view fovmode="2" pannorth="89.647">
       <start fov="100" pan="-23.307" projection="4" tilt="-2.43662"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -574,7 +618,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:32:16" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:32" description="" heading="-89.716" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node23" source="" tags="Afuera" title="7a"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:32:16" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:32" description="" heading="-89.716" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node23" source="" tags="Afuera" title="7a">
+      <mapcoords mapid="FloorPlan02" x="0.280151" x_floorplan_percent="27.1277" y="-0.961304" y_floorplan_percent="46.9799"/>
+    </userdata>
     <view fovmode="2" pannorth="-89.716">
       <start fov="100" pan="-34.6453" projection="4" tilt="-17.0348"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -601,7 +647,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:32:34" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:32" description="" heading="-39.067" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node24" source="" tags="Afuera" title="8a"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:32:34" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:32" description="" heading="-39.067" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node24" source="" tags="Afuera" title="8a">
+      <mapcoords mapid="FloorPlan02" x="0.0384521" x_floorplan_percent="3.7234" y="-0.920105" y_floorplan_percent="44.9664"/>
+    </userdata>
     <view fovmode="2" pannorth="-39.067">
       <start fov="100" pan="18.5813" projection="4" tilt="-4.39557"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -626,7 +674,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:32:53" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:32" description="" heading="106.458" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node25" source="" tags="Afuera" title="9a"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:32:53" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:32" description="" heading="106.458" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node25" source="" tags="Afuera" title="9a">
+      <mapcoords mapid="FloorPlan02" x="0.497131" x_floorplan_percent="48.1383" y="-0.994263" y_floorplan_percent="48.5906"/>
+    </userdata>
     <view fovmode="2" pannorth="106.458">
       <start fov="100" pan="-86.3363" projection="4" tilt="3.28085"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -658,7 +708,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:33:14" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:33" description="" heading="97.762" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node26" source="" tags="Afuera" title="10a"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:33:14" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:33" description="" heading="97.762" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node26" source="" tags="Afuera" title="10a">
+      <mapcoords mapid="FloorPlan02" x="0.686646" x_floorplan_percent="66.4894" y="-0.832214" y_floorplan_percent="40.6711"/>
+    </userdata>
     <view fovmode="2" pannorth="97.762">
       <start fov="100" pan="1.37879" projection="4" tilt="0.203565"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -685,7 +737,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:33:32" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:33" description="" heading="173.479" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node27" source="" tags="Afuera" title="11a"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:33:32" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:33" description="" heading="173.479" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node27" source="" tags="Afuera" title="11a">
+      <mapcoords mapid="FloorPlan02" x="0.909119" x_floorplan_percent="88.0319" y="-0.829468" y_floorplan_percent="40.5369"/>
+    </userdata>
     <view fovmode="2" pannorth="173.479">
       <start fov="100" pan="-96.6235" projection="4" tilt="-14.8259"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -709,7 +763,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:33:59" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:33" description="" heading="198.353" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node28" source="" tags="Afuera" title="12a"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:33:59" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:33" description="" heading="198.353" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node28" source="" tags="Afuera" title="12a">
+      <mapcoords mapid="FloorPlan02" x="0.513611" x_floorplan_percent="49.734" y="-1.35132" y_floorplan_percent="66.0403"/>
+    </userdata>
     <view fovmode="2" pannorth="198.353">
       <start fov="100" pan="-60.2997" projection="4" tilt="2.32973"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -740,7 +796,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:34:18" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:34" description="" heading="172.583" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node29" source="" tags="Afuera" title="13a"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:34:18" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:34" description="" heading="172.583" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node29" source="" tags="Afuera" title="13a">
+      <mapcoords mapid="FloorPlan02" x="0.0961304" x_floorplan_percent="9.30851" y="-1.3678" y_floorplan_percent="66.8456"/>
+    </userdata>
     <view fovmode="2" pannorth="172.583">
       <start fov="135.055" pan="168.455" projection="4" tilt="-6.64051"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -761,7 +819,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:34:34" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:34" description="" heading="187.424" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node30" source="" tags="Afuera" title="14a"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:34:34" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:34" description="" heading="187.424" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node30" source="" tags="Afuera" title="14a">
+      <mapcoords mapid="FloorPlan02" x="0.296631" x_floorplan_percent="28.7234" y="-1.3623" y_floorplan_percent="66.5772"/>
+    </userdata>
     <view fovmode="2" pannorth="187.424">
       <start fov="126.58" pan="23.2414" projection="4" tilt="-9.52004"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -788,7 +848,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:53:13" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:53" description="" heading="281.559" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node31" source="" tags="Primerpiso" title="Arriba"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:53:13" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:53" description="" heading="281.559" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node31" source="" tags="Primerpiso" title="Arriba">
+      <mapcoords mapid="FloorPlan01" x="0.708618" x_floorplan_percent="68.617" y="-0.818481" y_floorplan_percent="40"/>
+    </userdata>
     <view fovmode="2" pannorth="281.559">
       <start fov="100" pan="20.6596" projection="4" tilt="-14.7289"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -887,7 +949,7 @@
     </features>
   </panorama>
   <masternode>
-    <userdata author="Lot Gomez" comment="" copyright="" description="" tags="" title="" uuid="{9499512f-c86e-4d2f-94ea-c8a6213df4ce}"/>
+    <userdata author="Lot Gomez" comment="" copyright="" description="" tags="" title="" uuid="{aaf5efb4-d993-4da5-86a2-e3e8753a7f03}"/>
     <transition blendcolor="0x000000" blendtime="2" delay="none" enabled="1" softedge="0" type="model" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
     <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
     <animationsequences>
@@ -898,4 +960,6 @@
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
     </hotspots>
   </masternode>
+  <map bgcolor="rgba(255, 255, 255, 1)" crispedges="0" floorplannorth="0" height="745" id="FloorPlan01" index="0" tileformat="jpg" title="" transparent="0" type="file" width="376" zoomlevels="1"/>
+  <map bgcolor="rgba(255, 255, 255, 1)" crispedges="0" floorplannorth="0" height="745" id="FloorPlan02" index="1" tileformat="jpg" title="" transparent="0" type="file" width="376" zoomlevels="1"/>
 </tour>
